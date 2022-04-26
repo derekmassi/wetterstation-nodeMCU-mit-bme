@@ -17,8 +17,8 @@ float data[10];
 int i = 0;
 
 /*Put your SSID & Password*/
-const char* SSID = "Box 7530 HV-2.4";  // Enter SSID here
-const char* password = "29982195221493819999";  //Enter Password here
+const char* SSID = "WLAN-NWT";  // Enter SSID here
+const char* password = "123456789";  //Enter Password here
 
 ESP8266WebServer server(80);              
  
